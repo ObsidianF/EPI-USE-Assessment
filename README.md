@@ -8,4 +8,4 @@ First open the backend Terminal
 then type npm run dev
 ![image](https://user-images.githubusercontent.com/103145617/224850939-e0086fb6-522f-4054-acab-4438914a368c.png)
 
-<img align="left" width="100" height="100" src="[http://www.fillmurray.com/100/100](https://user-images.githubusercontent.com/103145617/224850939-e0086fb6-522f-4054-acab-4438914a368c.png)">
+
