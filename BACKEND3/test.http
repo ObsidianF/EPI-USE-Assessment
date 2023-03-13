@@ -1,0 +1,45 @@
+
+//sign up new user
+POST https://localhost:9000/api/users/signup HTTP/1.1
+content-type: application/json
+
+{
+    "username": "testuser",
+    "password": "Password@123"
+}
+###
+//login a new user
+POST https://localhost:9000/api/users/login HTTP/1.1
+content-type: application/json
+
+{
+ "username": "testuser",
+    "password": "Password@123"
+}
+
+###
+//creat a new issue
+POST https://localhost:9000/api/issues HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3R1c2VyIiwidXNlcmlkIjoiNjQwNTAyODUxNjc1MDY3YTk4MDE3NDYxIiwiaWF0IjoxNjc4NDA0MzU1LCJleHAiOjE2Nzg0MDc5NTV9.-8cl21YoCZY-tnrbysXkwplochkxmmdYDbB9cvLUmFk
+
+{
+"id": "55", 
+"name": "test3 issue",
+"surname" : "surname",
+"birth_date": "birthdate",
+"employee_numbe" :"292387482f",
+"salary" :"50000",
+"position" :"position",
+"manager" :"manager"
+}
+###
+//delete a issue
+DELETE https://localhost:9000/api/issues/640a6b0db9d543bf49a97101 HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3R1c2VyIiwidXNlcmlkIjoiNjQwNTAyODUxNjc1MDY3YTk4MDE3NDYxIiwiaWF0IjoxNjc4NDA0MzU1LCJleHAiOjE2Nzg0MDc5NTV9.-8cl21YoCZY-tnrbysXkwplochkxmmdYDbB9cvLUmFk
+
+###
+//Get all issue
+Get https://localhost:9000/api/issues HTTP/1.1
+###

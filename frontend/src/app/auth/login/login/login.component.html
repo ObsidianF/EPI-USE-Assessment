@@ -1,0 +1,50 @@
+<html>
+<head>
+<style>
+.button {
+  background-color: #948ce1; /* (w3schools, 2022)*/
+  border: none;
+  color: white;
+  padding: 8px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; /* (w3schools, 2022)*/
+  color: black; 
+  border: 2px solid #948ce1;
+}
+
+.button1:hover {
+  background-color: #948ce1;
+  color: white;
+}
+
+</style>
+</head>
+<body>
+
+<form (submit)="onlogin(loginform)" #loginform="ngForm">
+
+    <input type="text" ngModel name="enteredusername" placeholder="Enter username" required minlength="1"
+       #enteredusername="ngModel" />
+      <div style="color:red" *ngIf="enteredusername.invalid && (enteredusername.dirty || enteredusername.touched)">invalid</div>
+      <br>
+  
+    <input type="text" ngModel name="enteredpassword" class="e2e-inner-html-bound" placeholder="Enter Password" required minlength="1"
+      pattern="^([a-zA-Z0-9@*#]{8,15})$" #enteredpassword="ngModel" />
+      <div style="color:red" *ngIf="enteredpassword.invalid && (enteredpassword.dirty || enteredpassword.touched)">invalid</div>
+      <br>
+  
+    <button type="submit"  class="button button1" >{{option}}</button>
+
+    
+  
+  </form>
+  
