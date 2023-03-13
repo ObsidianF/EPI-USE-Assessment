@@ -22,5 +22,9 @@ And type ng serve --open
 
 ![Screenshot 2023-03-13 151637](https://user-images.githubusercontent.com/103145617/224851990-32d2216c-ea2a-4034-833c-b3323a7cef59.png)
 
+and now the application will run in your browser
+
+![Screenshot 2g023-03-13 150530](https://user-images.githubusercontent.com/103145617/224852191-0690f4b6-2144-4f0d-93d7-8d84ad0ed950.png)
+
 
 
