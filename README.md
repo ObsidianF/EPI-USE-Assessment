@@ -29,7 +29,7 @@ and now the application will run in your browser
 
 
 
-## How to user application
+## How to use the application
 
 First go to the toolbar and click on sign up this will take you to the sign up screen now enter a username and password.
 
