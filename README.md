@@ -59,7 +59,8 @@ You can now view the data in a treeview and see the organisation's employee hier
 &nbsp;
 &nbsp;
 &nbsp;
-##gravatar
+
+## Gravatar
 
 This is my gravatar profile to chage the profile of users
 
