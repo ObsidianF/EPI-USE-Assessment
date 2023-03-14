@@ -29,9 +29,20 @@ and now the application will run in your browser
 ## How to user application
 
 First go to the toolbar and click on sign up this will take you to the sign up screen now enter a username and password.
-Now go to login screen and login with the username and pasword you just created. You can now go to add user screen
-now enter the data in the textbox and press the press the add user button. You can now view the data in a treeview 
-and see the organisation's employee hierarchy.
+
+![Screenshofvt 2023-03-13 150621](https://user-images.githubusercontent.com/103145617/224858385-e09a6d2c-7f2e-4763-b573-b875f1eef383.png)
+
+Now go to login screen and login with the username and pasword you just created. 
+
+![Screenshot 2g023-03-13 150530](https://user-images.githubusercontent.com/103145617/224858426-a202a4a6-d636-4bc0-9a4d-943783fd2bf1.png)
+
+You can now go to add user screen now enter the data in the textbox and press the press the add user button.
+
+![Screenshot 2023-03-13 150632](https://user-images.githubusercontent.com/103145617/224858464-44842067-8fde-49ad-93a7-7634a36ca9b4.png)
+
+You can now view the data in a treeview and see the organisation's employee hierarchy.
+
+![Screenshot 2023-03-13 235346](https://user-images.githubusercontent.com/103145617/224858496-84b3acc0-823e-4348-b0da-25630913e642.png)
 
 
 ## Database
