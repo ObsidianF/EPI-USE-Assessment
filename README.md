@@ -80,7 +80,7 @@ And you can see the picture display in the display
 
 For my Database i picked MongoDB to store my data.
 
-this is my cluster where i have to tables one for users where all the user are stored and for extra security the password are encrypted 
+this is my cluster where i have two tables one for users where all the user are stored and for extra security the password are encrypted 
 
 ![image](https://user-images.githubusercontent.com/103145617/224860732-b229888d-3939-423e-b743-bcce14a16faf.png)
 
