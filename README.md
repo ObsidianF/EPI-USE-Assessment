@@ -53,7 +53,28 @@ You can now view the data in a treeview and see the organisation's employee hier
 
 ![Screenshot 2023-03-13 235346](https://user-images.githubusercontent.com/103145617/224858496-84b3acc0-823e-4348-b0da-25630913e642.png)
 
+&nbsp;
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+##gravatar
+
+This is my gravatar profile to chage the profile of users
+
+![image](https://user-images.githubusercontent.com/103145617/224860073-062332de-004a-4179-8188-bc8713154b30.png)
+
+And you can see the picture display in the display
+
+![image](https://user-images.githubusercontent.com/103145617/224860289-e9517cda-78f7-4fd8-892b-cba7587cb306.png)
+
+&nbsp;
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## Database
 
 For my Database i picked MongoDB to store my data.
