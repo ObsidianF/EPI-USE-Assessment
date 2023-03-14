@@ -26,7 +26,7 @@ and now the application will run in your browser
 
 ![Screenshot 2g023-03-13 150530](https://user-images.githubusercontent.com/103145617/224852191-0690f4b6-2144-4f0d-93d7-8d84ad0ed950.png)
 &nbsp;
-&nbsp;
+
 &nbsp;
 &nbsp;
 &nbsp;
