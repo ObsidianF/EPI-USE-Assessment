@@ -26,10 +26,13 @@ and now the application will run in your browser
 
 ![Screenshot 2g023-03-13 150530](https://user-images.githubusercontent.com/103145617/224852191-0690f4b6-2144-4f0d-93d7-8d84ad0ed950.png)
 
+
+
+
 ## How to user application
-
+```
 First go to the toolbar and click on sign up this will take you to the sign up screen now enter a username and password.
-
+```
 ![Screenshofvt 2023-03-13 150621](https://user-images.githubusercontent.com/103145617/224858385-e09a6d2c-7f2e-4763-b573-b875f1eef383.png)
 
 Now go to login screen and login with the username and pasword you just created. 
