@@ -28,6 +28,12 @@ and now the application will run in your browser
 
 ## How to user application
 
+First go to the toolbar and click on sign up this will take you to the sign up screen now enter a username and password.
+Now go to login screen and login with the username and pasword you just created. You can now go to add user screen
+now enter the data in the textbox and press the press the add user button. You can now view the data in a treeview 
+and see the organisation's employee hierarchy.
+
+
 ## Database
 
 For my Database i picked MongoDB to store my data.
