@@ -25,7 +25,7 @@ And type ```ng serve --open```
 and now the application will run in your browser
 
 ![Screenshot 2g023-03-13 150530](https://user-images.githubusercontent.com/103145617/224852191-0690f4b6-2144-4f0d-93d7-8d84ad0ed950.png)
-
+&nbsp;&nbsp;
 
 
 
@@ -39,8 +39,8 @@ Now go to login screen and login with the username and pasword you just created.
 
 ![Screenshot 2g023-03-13 150530](https://user-images.githubusercontent.com/103145617/224858426-a202a4a6-d636-4bc0-9a4d-943783fd2bf1.png)
 
-You can now go to add user screen now enter the data in the textbox and press the press the add user button. But you can only create new user if ypu have
-logged in
+You can now go to add user screen now enter the data in the textbox and press the press the add user button. But you can only 
+create new user if you have logged in.
 
 ![Screenshot 2023-03-13 150632](https://user-images.githubusercontent.com/103145617/224858464-44842067-8fde-49ad-93a7-7634a36ca9b4.png)
 
