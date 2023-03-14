@@ -88,6 +88,22 @@ and the second table issues shows the all the employees
 
 ![image](https://user-images.githubusercontent.com/103145617/224860579-0d8ef584-d6e4-4bdf-bc10-3f0e357e426a.png)
 
+&nbsp;
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+## may not own manager
+as you can see when name and manager are the same the button is disabled so user can be its own manager
+
+![Screenshot 2023-03-14 040227](https://user-images.githubusercontent.com/103145617/224873234-39dbbb6c-d588-41b9-807d-1805b9a62764.png)
+
+and an example of when they not the same
+
+![Screenshot 2023-03-14 040236](https://user-images.githubusercontent.com/103145617/224873494-5c98deb9-8d39-47a5-b67a-95f0561d9038.png)
+
+
 
 
 
