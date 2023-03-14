@@ -56,7 +56,7 @@
       pattern="^[a-zA-Z0-9\s_-]+$" #enteredName="ngModel" />
       <br >
   </div><div  class="text-center">
-    <button type="submit" class="button button1" text-align: center >Add User</button>
+    <button type="submit" [disabled]="enteredManager.value == enteredName.value " text-align: center >Add User</button>
   </div>
   </form>
   
